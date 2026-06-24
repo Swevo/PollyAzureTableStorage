@@ -135,6 +135,9 @@ public class OrderRepository(ResilientTableClient client)
 | [PollyHealthChecks](https://github.com/Swevo/PollyHealthChecks) | Polly v8 for ASP.NET Core Health Checks |
 | [PollySendGrid](https://github.com/Swevo/PollySendGrid) | Polly v8 for SendGrid |
 | [PollyMassTransit](https://github.com/Swevo/PollyMassTransit) | Polly v8 for MassTransit |
+| [PollyMailKit](https://github.com/Swevo/PollyMailKit) | MailKit SMTP email client |
+| [PollyAzureQueueStorage](https://github.com/Swevo/PollyAzureQueueStorage) | Azure Queue Storage QueueClient |
+| [PollyHangfire](https://github.com/Swevo/PollyHangfire) | Hangfire IBackgroundJobClient |
 | [PollyBackoff](https://github.com/Swevo/PollyBackoff) | Polly v8 backoff helpers |
 
 ## License
